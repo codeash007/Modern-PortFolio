@@ -14,7 +14,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/modern-portfolio.git
+git clone https://github.com/codeash007/Modern-PortFolio
 Navigate to the project directory:
 
 bash
@@ -53,11 +53,10 @@ Create a new branch: git checkout -b feature/YourFeatureName.
 Make your changes and commit them: git commit -m 'Add feature'.
 Push to the branch: git push origin feature/YourFeatureName.
 Open a pull request.
-License
-This project is licensed under the MIT License.
+
 
 Contact
 If you have any questions or need support, feel free to reach out:
 
-Email: your.email@example.com
-GitHub: your-username
+Email: codeash007
+GitHub: codeash007
